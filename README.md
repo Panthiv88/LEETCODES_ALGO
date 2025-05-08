@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0084-largest-rectangle-in-histogram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
