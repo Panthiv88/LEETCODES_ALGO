@@ -16,9 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0205-isomorphic-strings) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
