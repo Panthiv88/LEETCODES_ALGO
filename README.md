@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0045-jump-game-ii) |
