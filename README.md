@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0088-merge-sorted-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2603-reward-top-k-students) |
 ## Matrix
