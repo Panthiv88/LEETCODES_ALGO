@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0048-rotate-image) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
