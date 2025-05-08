@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0018-4sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0018-4sum) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0055-jump-game) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
