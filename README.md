@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0092-reverse-linked-list-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0191-number-of-1-bits) |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0071-simplify-path) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
