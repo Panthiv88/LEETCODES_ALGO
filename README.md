@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0136-single-number) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2154-minimum-moves-to-convert-string) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
