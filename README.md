@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0088-merge-sorted-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2603-reward-top-k-students) |
 ## Matrix
