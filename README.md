@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0136-single-number) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0055-jump-game) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0088-merge-sorted-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2603-reward-top-k-students) |
 ## Matrix
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
