@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0205-isomorphic-strings) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2154-minimum-moves-to-convert-string) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2603-reward-top-k-students](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2603-reward-top-k-students) |
 ## Math
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
