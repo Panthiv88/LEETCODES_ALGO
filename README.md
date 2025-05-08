@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0071-simplify-path) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
