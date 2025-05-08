@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0097-interleaving-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0085-maximal-rectangle) |
 ## Combinatorics
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -223,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
