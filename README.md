@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0093-restore-ip-addresses) |
