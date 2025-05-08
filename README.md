@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Backtracking
 |  |
 | ------- |
