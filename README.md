@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0097-interleaving-string) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
