@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0073-set-matrix-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0038-count-and-say) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0048-rotate-image) |
