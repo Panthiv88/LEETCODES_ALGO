@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0036-valid-sudoku) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0016-3sum-closest) |
