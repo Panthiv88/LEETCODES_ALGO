@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0191-number-of-1-bits) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
 ## Tree
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0093-restore-ip-addresses) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
 ## Array
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0136-single-number) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -309,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0085-maximal-rectangle) |
+## Bitmask
+|  |
+| ------- |
+| [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
