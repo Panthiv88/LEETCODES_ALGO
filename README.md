@@ -248,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0136-single-number) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2078-maximum-compatibility-score-sum) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0059-spiral-matrix-ii) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0088-merge-sorted-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Matrix
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0085-maximal-rectangle) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Combinatorics
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0023-merge-k-sorted-lists) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
 | ------- |
