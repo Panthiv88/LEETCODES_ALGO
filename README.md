@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
 ## Divide and Conquer
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
