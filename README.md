@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0191-number-of-1-bits) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0093-restore-ip-addresses) |
 ## Array
