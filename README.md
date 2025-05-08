@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0097-interleaving-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
 |  |
 | ------- |
