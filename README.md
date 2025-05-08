@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0205-isomorphic-strings) |
 ## String
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0073-set-matrix-zeroes) |
 ## Combinatorics
 |  |
 | ------- |
