@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0097-interleaving-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0093-restore-ip-addresses) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0079-word-search) |
 ## Combinatorics
 |  |
 | ------- |
