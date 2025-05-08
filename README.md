@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0097-interleaving-string) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
