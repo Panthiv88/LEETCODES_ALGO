@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0097-interleaving-string) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
