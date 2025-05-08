@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0206-reverse-linked-list) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0202-happy-number) |
