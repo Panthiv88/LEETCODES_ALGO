@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0098-validate-binary-search-tree) |
 ## Dynamic Programming
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0074-search-a-2d-matrix) |
 ## Combinatorics
 |  |
 | ------- |
