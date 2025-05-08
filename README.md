@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0097-interleaving-string) |
 | [0205-isomorphic-strings](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0205-isomorphic-strings) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Panthiv88/LEETCODES_ALGO/tree/master/0097-interleaving-string) |
 ## Backtracking
